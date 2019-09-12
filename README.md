@@ -10,6 +10,6 @@
 
 > npm install express cors --save
 
-## Serve Listening
+## Server Listening
 
 > node index.js
