@@ -1,6 +1,6 @@
-#Setting Up API Server
+## Setting Up API Server
 
-## Create a Folder
+> Create a Folder
 
 ## Initial NPM
 
@@ -10,6 +10,6 @@
 
 > npm install express cors --save
 
-## Serve Listening
+## Server Listening
 
 > node index.js
